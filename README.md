@@ -1,4 +1,4 @@
-# luigi
+# Luigi
 Luigi CTF
 
 
