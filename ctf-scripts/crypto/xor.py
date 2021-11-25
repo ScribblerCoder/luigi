@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import pwn
 
-#cipher.enc as hash
+#cipher.enc as hex
 input = "134af6e1297bc4a96f6a87fe046684e8047084ee046d84c5282dd7ef292dc9"
 
 #CTF format in letters
