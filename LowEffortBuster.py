@@ -1,6 +1,6 @@
 import sys
 
-def help():
+def help(): 
 	asciiart = """
 █████                               ██████████  ██████ ██████                   █████   
 ░░███                               ░░███░░░░░█ ███░░█████░░███                 ░░███    
@@ -27,10 +27,10 @@ if len(sys.argv) != 3:
 	exit() 
 	
 
-f 			= open(sys.argv[1],'r')
+f = open(sys.argv[1],'r')
 flag_format = sys.argv[2]
 
-
+# encodings to add
 # - ROT13 (and all possible ROTs)
 # - Base64 ( and hex/decimal/octal/binary/base32/base58/base85/base62)
 # - URL encode
