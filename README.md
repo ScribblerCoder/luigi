@@ -6,7 +6,7 @@ Luigi CTF
 
 
 **CTF docs**
-https://github.com/JohnHammond/ctf-katana
+- https://github.com/JohnHammond/ctf-katana
 
 **Steganography tools**
 - outguess
