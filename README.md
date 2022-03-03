@@ -9,4 +9,10 @@ Luigi CTF
 
 **Steganography tools**
 - outguess
-- stegseek (steg password cracker) VERY FUCKING **FAST**
+- stegseek (steg password cracker) very fucking **FAST**
+
+
+**Forensics tools**
+- osfmount
+- autopsy
+- mddam
