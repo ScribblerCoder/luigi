@@ -30,9 +30,14 @@ if len(sys.argv) != 3:
 f = open(sys.argv[1],'r')
 flag_format = sys.argv[2]
 
+
+
+
+
+
 # encodings to add
 # - ROT13 (and all possible ROTs)
-# - Base64 ( and hex/decimal/octal/binary/base32/base58/base85/base62)
+# - Base64 ( and hex/decimal/octal/binary/base32/base85)
 # - URL encode
 # - braille
-# - reverse
+# - reverse 
