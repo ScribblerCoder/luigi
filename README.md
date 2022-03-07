@@ -17,3 +17,4 @@ Luigi CTF
 - osfmount
 - autopsy
 - mddam
+- smb sheet https://wiki.wireshark.org/SMB2
