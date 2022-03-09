@@ -8,6 +8,10 @@ Luigi CTF
 **CTF docs**
 - https://github.com/JohnHammond/ctf-katana
 
+**General tools**
+- https://github.com/mandiant/flare-floss
+- 
+
 **Steganography tools**
 - outguess
 - stegseek (steg password cracker) very fucking **FAST**
