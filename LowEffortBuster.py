@@ -21,8 +21,8 @@ def help():
 	print(asciiart)
 	print("\n\nusage: python3 LowEffortBuster.py <file> <flag_format>")
 
-
-if len(sys.argv) != 3:
+Flag_Format = ""
+if len(sys.argv) != 2:
 	help()
 	exit() 
 	
