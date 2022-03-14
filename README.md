@@ -19,6 +19,7 @@ Luigi CTF
 
 
 **Forensics tools**
+- clamscan (scan memory dump for malware)
 - osfmount
 - autopsy
 - mddam
