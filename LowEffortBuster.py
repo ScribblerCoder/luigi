@@ -55,7 +55,7 @@ def base64(flag):
 def main():
 
     # add ctf flag format here
-    Flag_Format = b""
+    Flag_Format = "METACTF{"
 
     # add every possible encoding in this list
     ciphers = [] 
