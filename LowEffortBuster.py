@@ -34,14 +34,17 @@ def rot(flag, key):
     # transverse the plain text
     for i in range(len(flag)):
         char = flag[i]
-    # Encrypt uppercase characters in plain text
 
-    if char in upper:
-        result += chr((ord(char) + key - 65) % 26 + 65)
-    # Encrypt lowercase characters in plain text
-    else:
-        result += chr((ord(char) + key - 97) % 26 + 97)
-    return result
+        # Encrypt uppercase characters in plain text
+        if char in upper:
+            result += chr((ord(char) + key - 65) % 26 + 65)
+
+
+        # Encrypt lowercase characters in plain text
+        else:
+            result += chr((ord(char) + key - 97) % 26 + 97)
+
+    return result.encode()
 
 
 def base64(flag):
@@ -51,18 +54,21 @@ def base64(flag):
 
 def main():
 
+    # add ctf flag format here
     Flag_Format = ""
-    ciphers = []
+
+    # add every possible encoding in this list
+    ciphers = [] 
     if len(sys.argv) != 2:
         help()
         exit()
 
-    HexDump_file = open(sys.argv[1], "r").read()
+    hex_dump = open(sys.argv[1], "r").read()
 
+    #add all ROTs
     for i in range(0, 26):
         tmp = rot(Flag_Format, i)
-        tmp = tmp.encode()
-        ciphers.append(tmp.hex())
+        ciphers.append(tmp)
 
 
 main()
