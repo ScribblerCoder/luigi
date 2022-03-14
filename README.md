@@ -25,3 +25,4 @@ Luigi CTF
 - mddam
 - smb sheet https://wiki.wireshark.org/SMB2
 - sqlcipher
+- rubberducky decoder/encoder https://ducktoolkit.com/
