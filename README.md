@@ -26,6 +26,7 @@ Luigi CTF
 - smb sheet https://wiki.wireshark.org/SMB2
 - sqlcipher
 - rubberducky decoder/encoder https://ducktoolkit.com/
+- ewf-tools (EWF files)
 
 **Reverse Engineering tools**
 - dnSpy (disassemble Unity games)
