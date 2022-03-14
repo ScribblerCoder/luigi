@@ -7,10 +7,11 @@ Luigi CTF
 
 **CTF docs**
 - https://github.com/JohnHammond/ctf-katana
+- hacktricks
 
 **General tools**
 - https://github.com/mandiant/flare-floss
-- 
+- https://github.com/mandiant/flare-vm
 
 **Steganography tools**
 - outguess
@@ -22,3 +23,4 @@ Luigi CTF
 - autopsy
 - mddam
 - smb sheet https://wiki.wireshark.org/SMB2
+- sqlcipher
