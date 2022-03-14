@@ -55,7 +55,7 @@ def base64(flag):
 def main():
 
     # add ctf flag format here
-    Flag_Format = ""
+    Flag_Format = b""
 
     # add every possible encoding in this list
     ciphers = [] 
@@ -74,7 +74,6 @@ def main():
 main()
 
 # encodings to add
-# - ROT13 (and all possible ROTs)
 # - Base64 ( and hex/decimal/octal/binary/base32/base85)
 # - URL encode
 # - braille
