@@ -28,5 +28,6 @@ Luigi CTF
 - rubberducky decoder/encoder https://ducktoolkit.com/
 - ewf-tools (EWF files)
 
-**Reverse Engineering tools**
+**GamePWN tools**
 - dnSpy (disassemble Unity games)
+- If AssemblyC#.dll is not present you can try to dump using the IL2CPP github tool, dont use the net version.
