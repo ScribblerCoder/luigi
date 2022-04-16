@@ -29,4 +29,4 @@ Luigi CTF
 
 **GamePWN tools**
 - dnSpy (disassemble Unity games)
-- If AssemblyC#.dll is not present you can try to dump using the IL2CPP github tool, dont use the net version.
+- If AssemblyC#.dll is not present you can try to dump using the IL2CPP github tool, dont use the .NET version.
