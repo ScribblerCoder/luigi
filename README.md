@@ -9,7 +9,7 @@ Luigi CTF
 - hacktricks
 
 **General tools**
-- https://github.com/mandiant/flare-floss
+- https://github.com/mandiant/flare-floss (like grep)
 - https://github.com/mandiant/flare-vm
 
 **Steganography tools**
@@ -23,7 +23,7 @@ Luigi CTF
 - autopsy
 - mddam
 - smb sheet https://wiki.wireshark.org/SMB2
-- sqlcipher
+- sqlcipher (decrypting password protected sqlite db file)
 - rubberducky decoder/encoder https://ducktoolkit.com/
 - ewf-tools (EWF files)
 
