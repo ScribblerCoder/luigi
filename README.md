@@ -19,9 +19,9 @@ Luigi CTF
 
 **Forensics tools**
 - clamscan (scan memory dump for malware)
-- osfmount
-- autopsy
-- mddam
+- osfmount (for mounting on windows)
+- autopsy  (general tool)
+- mddam	(for constructing RAID devices)
 - smb sheet https://wiki.wireshark.org/SMB2
 - sqlcipher (decrypting password protected sqlite db file)
 - rubberducky decoder/encoder https://ducktoolkit.com/
