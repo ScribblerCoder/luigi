@@ -26,6 +26,8 @@ Luigi CTF
 - sqlcipher (decrypting password protected sqlite db file)
 - rubberducky decoder/encoder https://ducktoolkit.com/
 - ewf-tools (EWF files)
+- whatsapp parser toolset https://github.com/B16f00t/whapa
+- whatsapp db decryption https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter
 
 **GamePWN tools**
 - dnSpy (disassemble Unity games)
