@@ -33,3 +33,4 @@ Luigi CTF
 - dnSpy (disassemble Unity games)
 - If Assembly-CSharp.dll is not present you can try to dump using the IL2CPP github tool, dont use the net version.
 - Minecraft world editor https://github.com/jaquadro/NBTExplorer
+- Minecraft proxy (cheating position) https://github.com/LiveOverflow/minecraft-hacked
