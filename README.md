@@ -11,6 +11,7 @@ Luigi CTF
 **General tools**
 - https://github.com/mandiant/flare-floss (like grep)
 - https://github.com/mandiant/flare-vm
+- https://grep.app/ (search for similar code online)
 
 **Steganography tools**
 - outguess
