@@ -30,6 +30,7 @@ Luigi CTF
 - whatsapp parser toolset https://github.com/B16f00t/whapa
 - whatsapp db decryption https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter
 - Recycle bin tool https://github.com/EricZimmerman/RBCmd
+- FTKimager
 
 **GamePWN tools**
 - dnSpy (disassemble Unity games)
