@@ -31,6 +31,7 @@ Luigi CTF
 - whatsapp db decryption https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter
 - Recycle bin tool https://github.com/EricZimmerman/RBCmd
 - FTKimager
+- Sandboxie https://github.com/sandboxie/sandboxie
 
 **GamePWN tools**
 - dnSpy (disassemble Unity games)
