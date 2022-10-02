@@ -32,6 +32,8 @@ Luigi CTF
 - Recycle bin tool https://github.com/EricZimmerman/RBCmd
 - FTKimager
 - Sandboxie https://github.com/sandboxie/sandboxie
+- volatility
+- tshark
 
 **GamePWN tools**
 - dnSpy (disassemble Unity games)
