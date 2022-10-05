@@ -34,6 +34,7 @@ Luigi CTF
 - Sandboxie https://github.com/sandboxie/sandboxie
 - volatility
 - tshark
+- Powershell deobfuscation https://github.com/R3MRUM/PSDecode
 
 **GamePWN tools**
 - dnSpy (disassemble Unity games)
